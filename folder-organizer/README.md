@@ -18,17 +18,22 @@ A simple Python script that automatically organizes files in a folder into subfo
 Imagine you have a folder like this:
 
 **Before:**
+
+```bash
 📁 Downloads/
 ├── invoice-2025.pdf
 ├── final-report.docx
 ├── company-logo.png
 ├── vacation-photo.JPG
 └── presentation.pdf
+```
 
 
 After running the script and selecting the `Downloads` folder, it will look like this:
 
 **After:**
+
+```bash
 📁 Downloads/
 ├── 📁 pdf/
 │   ├── invoice-2025.pdf
@@ -42,6 +47,7 @@ After running the script and selecting the `Downloads` folder, it will look like
 │
 └── 📁 jpg/
 └── vacation-photo.JPG
+```
 
 
 ## 🚀 How to Use
