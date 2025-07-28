@@ -69,7 +69,7 @@ A simple Python automation that lets you quickly and easily combine multiple PDF
 
 ## 📜 License
 
-This project is licensed under the MIT License. For more details, create a LICENSE file in the project with the license text.
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ---
 
